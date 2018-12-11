@@ -3,14 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ec.edu.ister.vista;
+package com.nviteri.vista;
 
-import ec.edu.ister.modelo.Circulo;
-import ec.edu.ister.modelo.Punto;
+import com.nviteri.modelo.Circulo;
+import com.nviteri.modelo.Punto;
 
 /**
- *
- * @author SSolis
+ 
  */
 public class ApliacacionCirculo extends javax.swing.JFrame {
 
@@ -138,8 +137,7 @@ public class ApliacacionCirculo extends javax.swing.JFrame {
                                 .addGap(29, 29, 29)
                                 .addComponent(jLabel4)
                                 .addGap(63, 63, 63)
-                                .addComponent(txtRadio, javax.swing.GroupLayout.PREFERRED_SIZE, 103, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
+                                .addComponent(txtRadio, javax.swing.GroupLayout.PREFERRED_SIZE, 103, javax.swing.GroupLayout.PREFERRED_SIZE)))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addComponent(jPanel1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))

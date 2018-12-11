@@ -1,9 +1,5 @@
-package ec.edu.ister.modelo;
+package com.nviteri.modelo;
 
-/**
-  * @Instituto Rumiñahui
- * @author SSolis
- */
 public class Circulo {
     int radio;
     Punto p;

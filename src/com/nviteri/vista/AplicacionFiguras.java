@@ -3,16 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ec.edu.ister.vista;
+package com.nviteri.vista;
 
-import ec.edu.ister.modelo.Punto;
+import com.nviteri.modelo.Punto;
 import java.awt.Color;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author SSolis
- */
+
+
 public class AplicacionFiguras extends javax.swing.JFrame {
 
     Punto p1;

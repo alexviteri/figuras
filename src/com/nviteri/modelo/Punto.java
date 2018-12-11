@@ -1,9 +1,6 @@
-package ec.edu.ister.modelo;
+package com.nviteri.modelo;
 
-/**
-  * @Instituto Rumiñahui
- * @author SSolis
- */
+
 public class Punto {
     private int coordX;
     private int coordY;
